@@ -1,2 +1,2 @@
 666
-direct buckle 6
+direct buckle 666
